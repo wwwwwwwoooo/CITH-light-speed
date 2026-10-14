@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite this draft and the repository commit used."
+type: dataset
+title: "Fast Minds, Slow Light: Causal Limits on the Growth of Computational Civilizations"
+version: "draft-2026-10-14"
+date-released: "2026-10-14"
+authors:
+  - family-names: Joo
+    given-names: Hyeonjun
+repository-code: "https://github.com/wwwwwwwoooo/CITH-light-speed"
+url: "https://github.com/wwwwwwwoooo/CITH-light-speed"
+license:
+  - CC-BY-4.0
+  - MIT
+keywords:
+  - Fermi paradox
+  - speed of light
+  - computational inward transition hypothesis
+  - latency
+  - reproducible research
+references:
+  - type: unpublished
+    title: "Why Should They Stop Expanding? Computational Growth, Tipping Budgets, and the Uniformity Problem"
+    authors:
+      - family-names: Joo
+        given-names: Hyeonjun
+    year: 2026
+    url: "https://github.com/wwwwwwwoooo/CITH"
+    notes: "CITH v8. Research manuscript; not peer reviewed."
